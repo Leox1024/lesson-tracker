@@ -1,6 +1,6 @@
 # lesson-tracker
 
-local web application for tracking university lessons and asynchronous lectures.
+local web application for tracking university lessons and asynchronous lectures. Public instance: https://lesson.leox.me
 
 <img width="1623" height="903" alt="image" src="https://github.com/user-attachments/assets/5cbe02d7-3a46-49ce-8b6c-62eda27892cc" />
 <img width="1559" height="914" alt="image" src="https://github.com/user-attachments/assets/88279208-9e7f-42a6-909f-793c6d9d7b59" />
