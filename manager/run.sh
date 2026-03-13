@@ -10,4 +10,4 @@ pip install -q flask
 
 nohup python3 backend/tracker.py >> log/tracker.log 2>&1 &
 
-echo "Running on http://localhost:8883 and 0.0.0.0"
+echo "Running on http://localhost:8333 and 0.0.0.0"
