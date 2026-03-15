@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 cd "$(dirname "$0")/.."
+touch log/tracker.log
 
 rm -rf .venv
 python3 -m venv .venv
