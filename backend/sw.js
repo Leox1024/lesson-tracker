@@ -1,7 +1,7 @@
 const CACHE_NAME = "lesson-tracker-v1";
 const STATIC_ASSETS = [
   "/",
-  "/manifest.json"
+  "/manifest.webmanifest"
 ];
 
 self.addEventListener("install", event => {
